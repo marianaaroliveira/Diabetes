@@ -8,3 +8,15 @@ https://www.w3schools.com/python/numpy/default.asp
 https://www.w3schools.com/git/
 
 Datbase: https://www.kaggle.com/datasets/ehababoelnaga/diabetes-dataset/data
+
+Meaning of each column:
+id: identifier
+chol: total cholesterol
+stab.glu:stabilized glucose)
+hdl: good cholesterol
+ratio: cholesterol ration
+glyhb: Glycated hemoglobin
+location: of the person in that moment
+age: of the person of in that moment
+gender: of the person - female or male
+height: of that person in that moment
