@@ -20,3 +20,17 @@ location: of the person in that moment
 age: of the person of in that moment
 gender: of the person - female or male
 height: of that person in that moment
+.
+.
+.
+
+Variables in study:
+chol
+stab.glu
+glyhb
+age
+gender
+weight
+
+
+
